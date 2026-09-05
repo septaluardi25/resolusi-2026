@@ -1,7 +1,8 @@
 RESOLUSI
 -react Ts
-*redux
+*zustand
+*tanstack
 -next Js
--python
+-python dasar
 -vue
 
