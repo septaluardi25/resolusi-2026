@@ -1,6 +1,6 @@
 RESOLUSI
 -react Ts
 -next Js
--python
+-python dasar
 -vue
 -data struktur
