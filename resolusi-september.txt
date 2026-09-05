@@ -1,0 +1,4 @@
+RESOLUSI
+-react js
+-next Js
+-python
