@@ -1,6 +1,7 @@
 RESOLUSI
 -react Ts
+*redux
 -next Js
 -python
 -vue
--data struktur
+
