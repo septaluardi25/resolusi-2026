@@ -2,6 +2,7 @@ RESOLUSI
 -react Ts
 *zustand
 *tanstack
+*axios
 -next Js
 -python dasar
 -vue
