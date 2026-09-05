@@ -3,3 +3,4 @@ RESOLUSI
 -next Js
 -python
 -vue
+-data struktur
