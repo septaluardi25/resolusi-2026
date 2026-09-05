@@ -1,5 +1,5 @@
 RESOLUSI
--react js
+-react Ts
 -next Js
 -python
 -vue
