@@ -1,5 +1,7 @@
 RESOLUSI
 -react Ts
+*zustand
+*tanstack
 -next Js
 -python
 -vue
