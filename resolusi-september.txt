@@ -5,4 +5,4 @@ RESOLUSI
 -next Js
 -python dasar
 -vue
--data struktur
+
